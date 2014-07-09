@@ -1,0 +1,24 @@
+[submodule "base16-vim"]
+	path = base16-vim
+	url = https://github.com/chriskempson/base16-vim.git
+[submodule "ctrlp-funky"]
+	path = ctrlp-funky
+	url = http://github.com/tacahiroy/ctrlp-funky.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "netrw"]
+	path = netrw
+	url = https://github.com/eiginn/netrw.git
+[submodule "vim-commentary"]
+	path = vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "vim-pathogen"]
+	path = vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "vim-sensible"]
+	path = vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "vim-vinegar"]
+	path = vim-vinegar
+	url = git://github.com/tpope/vim-vinegar.git
